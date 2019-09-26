@@ -1,0 +1,16 @@
+button,
+div,
+form,
+input {
+  margin: 10px;
+}
+
+button {
+    background-color: cadetblue;
+    color: white;
+}
+
+.gifDiv{
+    float: left;
+    margin: 5px;
+}
